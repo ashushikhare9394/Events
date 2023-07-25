@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.register-image {
+  width: 30px;
+  height: 30px;
+  margin: 6px;
+}
+.registration-heading {
+  color: #64748b;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.register-button {
+  background-color: #0967d2;
+  height: 20px;
+  width: 70px;
+  border-radius: 8px;
+  color: #ffffff;
+  text-align: center;
+}
+.img-register-close {
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+}
+.heading {
+  color: #475569;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.para {
+  color: #475569;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+.image-successful {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+}
+.container {
+  display: flex;
+  padding: 10px;
+}
